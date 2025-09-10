@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+diffusers
+transformers
+accelerate
+safetensors
+torch
+rembg
+onnxruntime
+pillow
+opencv-python
+python-multipart

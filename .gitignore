@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+backend/storage/uploads/*
+backend/storage/backgrounds/*
+backend/storage/cutouts/*
+backend/storage/thumbnails/*
+!backend/storage/uploads/.gitkeep
+!backend/storage/backgrounds/.gitkeep
+!backend/storage/cutouts/.gitkeep
+!backend/storage/thumbnails/.gitkeep
+frontend/node_modules/
+frontend/.next/
+*.log
